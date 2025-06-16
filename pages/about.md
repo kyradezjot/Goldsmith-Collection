@@ -68,3 +68,6 @@ Peter Goldsmith rides a bicycle in New York City
 
 “This is how the world was then, and how it is now,” he continued. “If you don’t want to learn it, you will make the same mistakes.”
 
+{% include feature/image.html objectid="goldsmith001" %}
+
+## insert description for postcard here 
